@@ -1,1 +1,1 @@
-# Javascript-Array
+# Array practicing questions
